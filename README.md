@@ -3,8 +3,7 @@
 ## 安装
 
 ```bash
-git clone http://10.47.73.211:4000/ZTE_CLAA_WEB/suzhou_park.git
-cd suzhou_park
+git clone https://github.com/sunlili810/demo_webpack4.git
 npm install
 ```
 
