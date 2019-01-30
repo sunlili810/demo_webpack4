@@ -1,0 +1,29 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2013-9-30: Created.
+-->
+<svg>
+<metadata>
+Created by iconfont
+</metadata>
+<defs>
+
+<font id="iconfont" horiz-adv-x="1024" >
+  <font-face
+    font-family="iconfont"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1024"
+    ascent="896"
+    descent="-128"
+  />
+    <missing-glyph />
+    
+    <glyph glyph-name="warningo" unicode="&#59445;" d="M560 368C560 341.504 538.624 320 512 320l0 0C485.568 320 464 341.504 464 368l0 224C464 618.56 485.568 640 512 640l0 0c26.624 0 48-21.44 48-48L560 368zM560 176c0 26.496-21.376 48-48 48-26.432 0-48-21.504-48-48S485.568 128 512 128C538.624 128 560 149.504 560 176zM512 832C264.64 832 64 631.36 64 384c0-247.424 200.64-448 448-448 247.488 0 448 200.576 448 448C960 631.36 759.488 832 512 832zM512-0.768c-212.48 0-384.768 172.224-384.768 384.768S299.52 768.768 512 768.768 896.64 596.48 896.64 384 724.48-0.768 512-0.768z"  horiz-adv-x="1024" />
+
+    
+
+
+  </font>
+</defs></svg>

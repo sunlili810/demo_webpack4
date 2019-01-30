@@ -1,0 +1,30 @@
+{
+  "result": 0,
+  "detail": "query success!",
+  "data": [
+    {
+    "report_date": "2019-01-15",
+    "counts": [{
+      "model": 7,
+      "name": "test1",
+      "count": 0
+    }, {
+      "model": 2,
+      "name": "test2",
+      "count": 0
+    }, {
+      "model": 5,
+      "name": "test3",
+      "count": 19
+    }, {
+      "model": 10,
+      "name": "test4",
+      "count": 0
+    }, {
+      "model": 11,
+      "name": "test5",
+      "count": 0
+    }]
+  }
+  ]
+}

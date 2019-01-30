@@ -1,0 +1,30 @@
+{
+  "result": 0,
+  "detail": "query success!",
+  "data": [
+    {
+    "report_date": "2019-01-15",
+    "counts": [{
+      "model": 6,
+      "name": "地磁",
+      "count": 0
+    }, {
+      "model": 28,
+      "name": "扬尘",
+      "count": 0
+    }, {
+      "model": 53,
+      "name": "烟雾报警器v2",
+      "count": 19
+    }, {
+      "model": 104,
+      "name": "空气质量监测",
+      "count": 0
+    }, {
+      "model": 105,
+      "name": "黑臭水体质监测",
+      "count": 0
+    }]
+  }
+  ]
+}

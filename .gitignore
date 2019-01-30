@@ -1,0 +1,6 @@
+node_modules/
+.idea/
+.vscode/
+build/
+index.html
+.DS_Store

@@ -1,0 +1,24 @@
+{
+  "result": 0,
+  "list": [{
+      "key": "item1",
+      "name": "item1",
+      "icon": "home"
+    },
+    {
+      "key": "item2",
+      "name": "item2",
+      "icon": "environment-o"
+    },
+    {
+      "key": "item3",
+      "name": "item3",
+      "icon": "setting"
+    },
+    {
+      "key": "item4",
+      "name": "item4",
+      "icon": "bell"
+    }
+  ]
+}
