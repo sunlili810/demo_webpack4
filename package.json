@@ -53,7 +53,7 @@
     "mobx-react": "^4.3.4",
     "mockjs": "^1.0.1-beta3",
     "moment": "^2.22.2",
-    "open": "0.0.5",
+    "open": "6.4.0",
     "optimize-css-assets-webpack-plugin": "^5.0.1",
     "postcss-loader": "^3.0.0",
     "progress-bar-webpack-plugin": "^1.11.0",
